@@ -1,6 +1,6 @@
 <pre style="background-color:#1e1e1e; color:#ffffff; padding:10px;">
                                                                                
-                                                             <span style="color:#00ffff">criicky  ─────────────────────────────────────────────────────────────</span>
+                                                             <span style="color:#00ffff">criicky  ──────────────────────────────────────────────────</span>
                             ;:                               <span style="color:#800080">Riccardo</span>
               *?%%%%%%%%%SSSSSSSSS%?:;SSSS%%S%               
             +%S###########@@@#######?,+*;?##SS%              
